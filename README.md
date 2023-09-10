@@ -1,4 +1,4 @@
-# McAssetExtractor
+# McAssetExtractor-GUI (UNFINISHED)
 
 #### About
 McAssetExtractor is a tool to extract assets from Minecraft by
